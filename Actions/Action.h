@@ -5,7 +5,7 @@
 
 class ApplicationManager; //forward class declaration
 
-
+ 
 //Base class for all possible actions
 class Action
 {
