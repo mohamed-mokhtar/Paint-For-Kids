@@ -3,3 +3,4 @@
 ### Paint for kids game
 ### This a C++ based on OOP principles . 
 ### Contact me for fully documented project description just for study case .
+> Used IDE : VS 2017
